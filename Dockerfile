@@ -11,6 +11,8 @@ RUN npm install --production
 # Copier les fichiers compilés (dist) et autres nécessaires
 COPY dist ./dist
 
+COPY build ./build
+
 EXPOSE 3000
 
 CMD ["node", "dist/main.js"]
