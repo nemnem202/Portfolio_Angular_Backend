@@ -1,5 +1,15 @@
 [
   {
+    "title": "SuperMario bros",
+    "description": "An emulator of supermario bros made only using typescript and without using any canvas.",
+    "image": "/mario.avif",
+    "mobileImage": "/mario.avif",
+    "source": "https://super-mario-typescript.vercel.app/",
+    "techs": [
+      { "name": "Typescript", "link": "https://www.typescriptlang.org/" }
+    ]
+  },
+  {
     "title": "My portfolio V2",
     "description": "I completely remade my portfolio, which was initially built with Next.js. It now runs on Angular and Nest.js. My Lighthouse scores have improved significantly, and the load time is much lower. I also bought a Domain for the occasion.",
     "image": "/portfo.avif",
@@ -47,17 +57,6 @@
     "techs": [
       { "name": "React.js", "link": "https://react.dev/" },
       { "name": "yt-dlp", "link": "https://github.com/yt-dlp/yt-dlp" }
-    ]
-  },
-  {
-    "title": "My portfolio",
-    "description": "It is an app made with Next.js and Material-UI. I enjoyed playing with the features Material provides, and I feel more comfortable with it than during the YouTube downloader development.",
-    "image": "/portfo.avif",
-    "mobileImage": "/mobile/portfo.jpg",
-    "source": "https://portfolio-production-967d.up.railway.app/home",
-    "techs": [
-      { "name": "Next.js", "link": "https://nextjs.org/" },
-      { "name": "Material-UI", "link": "https://mui.com/material-ui/" }
     ]
   },
   {
